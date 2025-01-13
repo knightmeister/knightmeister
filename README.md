@@ -1,8 +1,8 @@
 ### Hey
 I'm Sam and I do architecture for cloud, mobile and integration applications. I'm also a polyglot programmer.
 
-🔭 Currently working on foodtech in my spare time, and in fintech for my day job
-💡 Interested in solving highly technical problems, particularly around scalable and reliable architecture
+- 🔭 Currently working on foodtech in my spare time, and in fintech for my day job
+- 💡 Interested in solving highly technical problems, particularly around scalable and reliable architecture
 
 Tech stack:
 * .NET, Java, Swift/ObjC, C, HTML/JS/TS/CSS
